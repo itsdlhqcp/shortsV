@@ -66,8 +66,8 @@ h6 {
   -webkit-scroll-snap-type: y mandatory;
   -ms-scroll-snap-type: y mandatory;
   scroll-snap-type: y mandatory;
-  padding-top: 1rem;
-  scroll-padding-top: 2rem;
+  padding-top: 2.5rem;
+  scroll-padding-top: 2.2rem;
 }
 
 .reel {
