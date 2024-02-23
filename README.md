@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-![Uploading image.png…]()
+![image](https://github.com/itsdlhqcp/shortsV/assets/95963252/66b925c3-6296-4921-9ab2-06a24b65df91)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
